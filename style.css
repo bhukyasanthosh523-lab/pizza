@@ -1,0 +1,21 @@
+body{
+    background-image: url(photo3\ -\ Copy.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 850px;
+}
+h1,h2{
+    color: rgb(0, 255, 85);
+    font-size: 50px;
+}
+button{
+    height: 30px;
+    width: 70px;
+    background-color: blueviolet;
+    color:white ;
+    font-size: 13px;
+    border-radius: 1px;
+    font-weight: bold;
+}
+h1,h2{
+    margin-left: px;
+}
